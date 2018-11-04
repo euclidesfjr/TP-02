@@ -1,0 +1,6 @@
+[submodule "mahimahi"]
+	path = mahimahi
+	url = https://github.com/ravinet/mahimahi
+[submodule "sourdough"]
+	path = sourdough
+	url = https://github.com/keithw/sourdough
