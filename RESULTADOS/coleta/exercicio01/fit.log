@@ -1,0 +1,14 @@
+
+
+*******************************************************************************
+Thu Nov  1 18:30:00 2018
+
+
+FIT:    data read from 'tt' using 2:1
+        format = x:z
+        #datapoints = 280
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = p*x+q
+BREAK: Need via and either parameter list or file

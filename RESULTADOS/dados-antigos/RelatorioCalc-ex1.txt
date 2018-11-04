@@ -1,0 +1,396 @@
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.89 Mbits/s (77.1% utilization)
+95th percentile per-packet queueing delay: 141 ms
+95th percentile signal delay: 398 ms
+
+Uploading data to server... done.
+
+Upload successful (2098191 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540421668-iezohmao
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 77.1% 
+Janela .......: 30 
+Throughput ...: 3.89 
+Delay ........: 398 
+T / D ........: 9.77000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.22 Mbits/s (44.1% utilization)
+95th percentile per-packet queueing delay: 68 ms
+95th percentile signal delay: 185 ms
+
+Uploading data to server... done.
+
+Upload successful (1523959 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540423593-sheohegu
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 44.1% 
+Janela .......: 13 
+Throughput ...: 2.22 
+Delay ........: 185 
+T / D ........: 12.00000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.60 Mbits/s (51.6% utilization)
+95th percentile per-packet queueing delay: 80 ms
+95th percentile signal delay: 225 ms
+
+Uploading data to server... done.
+
+Upload successful (1651484 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540424357-rooxiung
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 51.6% 
+Janela .......: 16 
+Throughput ...: 2.60 
+Delay ........: 225 
+T / D ........: 11.55000 
+ 
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 59.7% 
+Janela .......: 20 
+Throughput ...: 3.01 
+Delay ........: 270 
+T / D ........: 11.14000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.01 Mbits/s (59.7% utilization)
+95th percentile per-packet queueing delay: 97 ms
+95th percentile signal delay: 270 ms
+
+Uploading data to server... done.
+
+Upload successful (1792333 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540424685-jiedahvo
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 95.2% 
+Janela .......: 60 
+Throughput ...: 4.80 
+Delay ........: 710 
+T / D ........: 6.76000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.80 Mbits/s (95.2% utilization)
+95th percentile per-packet queueing delay: 291 ms
+95th percentile signal delay: 710 ms
+
+Uploading data to server... done.
+
+Upload successful (2434419 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540424973-eiquuxoh
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 97.4% 
+Janela .......: 70 
+Throughput ...: 4.91 
+Delay ........: 795 
+T / D ........: 6.17000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.91 Mbits/s (97.4% utilization)
+95th percentile per-packet queueing delay: 339 ms
+95th percentile signal delay: 795 ms
+
+Uploading data to server... done.
+
+Upload successful (2481288 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540425237-rumethae
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 98.5% 
+Janela .......: 80 
+Throughput ...: 4.96 
+Delay ........: 890 
+T / D ........: 5.57000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 4.96 Mbits/s (98.5% utilization)
+95th percentile per-packet queueing delay: 399 ms
+95th percentile signal delay: 890 ms
+
+Uploading data to server... done.
+
+Upload successful (2506009 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540425470-mooyaiph
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 99.3% 
+Janela .......: 100 
+Throughput ...: 5.01 
+Delay ........: 1047 
+T / D ........: 4.78000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 5.01 Mbits/s (99.3% utilization)
+95th percentile per-packet queueing delay: 508 ms
+95th percentile signal delay: 1047 ms
+
+Uploading data to server... done.
+
+Upload successful (2531026 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540425749-aibepaem
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 38.1% 
+Janela .......: 11 
+Throughput ...: 1.92 
+Delay ........: 166 
+T / D ........: 11.56000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.92 Mbits/s (38.1% utilization)
+95th percentile per-packet queueing delay: 60 ms
+95th percentile signal delay: 166 ms
+
+Uploading data to server... done.
+
+Upload successful (1420089 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540426194-eiruvaid
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 37.9% 
+Janela .......: 11 
+Throughput ...: 1.91 
+Delay ........: 165 
+T / D ........: 11.57000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.91 Mbits/s (37.9% utilization)
+95th percentile per-packet queueing delay: 60 ms
+95th percentile signal delay: 165 ms
+
+Uploading data to server... done.
+
+Upload successful (1417900 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540426380-xiagavoh
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 38.6% 
+Janela .......: 11 
+Throughput ...: 1.95 
+Delay ........: 169 
+T / D ........: 11.53000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.95 Mbits/s (38.6% utilization)
+95th percentile per-packet queueing delay: 60 ms
+95th percentile signal delay: 169 ms
+
+Uploading data to server... done.
+
+Upload successful (1429629 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540436992-iquohzuw
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 38.0% 
+Janela .......: 11 
+Throughput ...: 1.91 
+Delay ........: 163 
+T / D ........: 11.71000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.91 Mbits/s (38.0% utilization)
+95th percentile per-packet queueing delay: 60 ms
+95th percentile signal delay: 163 ms
+
+Uploading data to server... done.
+
+Upload successful (1419172 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540437222-yaiwihei
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 41.2% 
+Janela .......: 12 
+Throughput ...: 2.08 
+Delay ........: 170 
+T / D ........: 12.23000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.08 Mbits/s (41.2% utilization)
+95th percentile per-packet queueing delay: 63 ms
+95th percentile signal delay: 170 ms
+
+Uploading data to server... done.
+
+Upload successful (1474696 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540437503-daeshahr
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 44.2% 
+Janela .......: 13 
+Throughput ...: 2.23 
+Delay ........: 187 
+T / D ........: 11.92000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.23 Mbits/s (44.2% utilization)
+95th percentile per-packet queueing delay: 67 ms
+95th percentile signal delay: 187 ms
+
+Uploading data to server... done.
+
+Upload successful (1525430 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540437707-phoghaud
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 38.7% 
+Janela .......: 11.0 
+Throughput ...: 1.95 
+Delay ........: 162 
+T / D ........: 12.03000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.95 Mbits/s (38.7% utilization)
+95th percentile per-packet queueing delay: 60 ms
+95th percentile signal delay: 162 ms
+
+Uploading data to server... done.
+
+Upload successful (1431611 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540438223-aeridaev
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 38.9% 
+Janela .......: 11 
+Throughput ...: 1.96 
+Delay ........: 170 
+T / D ........: 11.52000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.96 Mbits/s (38.9% utilization)
+95th percentile per-packet queueing delay: 60 ms
+95th percentile signal delay: 170 ms
+
+Uploading data to server... done.
+
+Upload successful (1434196 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540469751-heixiabi
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 38.4% 
+Janela .......: 22 
+Throughput ...: 1.94 
+Delay ........: 164 
+T / D ........: 11.82000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.94 Mbits/s (38.4% utilization)
+95th percentile per-packet queueing delay: 61 ms
+95th percentile signal delay: 164 ms
+
+Uploading data to server... done.
+
+Upload successful (1426306 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540470332-aiphuibo
+
+====== RELATORIO DE GERAÇÃO PARA COMPARAÇÃO THROUGHPUT versus DELAY ======
+Utilização ...: 38.1% 
+Janela .......: 12 
+Throughput ...: 1.92 
+Delay ........: 171 
+T / D ........: 11.22000 
+ 
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.92 Mbits/s (38.1% utilization)
+95th percentile per-packet queueing delay: 61 ms
+95th percentile signal delay: 171 ms
+
+Uploading data to server... done.
+
+Upload successful (1422392 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1540470596-chahyahs
+

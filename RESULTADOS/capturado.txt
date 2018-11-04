@@ -1,0 +1,470 @@
+EXECUCAO = 01 ---------------- \n
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /bin/mkdir -p
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking for g++... g++
+checking whether the C++ compiler works... yes
+checking for C++ compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking for style of include used by make... GNU
+checking dependency style of g++... gcc3
+checking for ranlib... ranlib
+checking for gcc... gcc
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /bin/grep
+checking for egrep... /bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking for uint16_t... yes
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating src/Makefile
+config.status: creating examples/Makefile
+config.status: creating datagrump/Makefile
+config.status: creating config.h
+config.status: config.h is unchanged
+config.status: executing depfiles commands
+make  all-recursive
+make[1]: Entering directory '/home/ubuntu/TP-02/sourdough'
+Making all in src
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/src'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/src'
+Making all in examples
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/examples'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/examples'
+Making all in datagrump
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/datagrump'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/datagrump'
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough'
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough'
+make[1]: Leaving directory '/home/ubuntu/TP-02/sourdough'
+net.ipv4.ip_forward = 1
+[3;J[H[2JExecuta o programama para o usuário O-Cride-Fala-Pra-Mãe
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.04 Mbits/s (20.5% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 101 ms
+Power: 10.25EXECUCAO = 01 ---------------- \n
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /bin/mkdir -p
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking for g++... g++
+checking whether the C++ compiler works... yes
+checking for C++ compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking for style of include used by make... GNU
+checking dependency style of g++... gcc3
+checking for ranlib... ranlib
+checking for gcc... gcc
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /bin/grep
+checking for egrep... /bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking for uint16_t... yes
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating src/Makefile
+config.status: creating examples/Makefile
+config.status: creating datagrump/Makefile
+config.status: creating config.h
+config.status: config.h is unchanged
+config.status: executing depfiles commands
+make  all-recursive
+make[1]: Entering directory '/home/ubuntu/TP-02/sourdough'
+Making all in src
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/src'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/src'
+Making all in examples
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/examples'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/examples'
+Making all in datagrump
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/datagrump'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/datagrump'
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough'
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough'
+make[1]: Leaving directory '/home/ubuntu/TP-02/sourdough'
+net.ipv4.ip_forward = 1
+[3;J[H[2JExecuta o programama para o usuário O-Cride-Fala-Pra-Mãe
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.24 Mbits/s (24.6% utilization)
+95th percentile per-packet queueing delay: 32 ms
+95th percentile signal delay: 94 ms
+Power: 13.21
+Uploading data to server... done.
+
+Upload successful (1189450 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1541125530-eizohkae
+
+EXECUCAO = 01 ---------------- \n
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /bin/mkdir -p
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking for g++... g++
+checking whether the C++ compiler works... yes
+checking for C++ compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking for style of include used by make... GNU
+checking dependency style of g++... gcc3
+checking for ranlib... ranlib
+checking for gcc... gcc
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /bin/grep
+checking for egrep... /bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking for uint16_t... yes
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating src/Makefile
+config.status: creating examples/Makefile
+config.status: creating datagrump/Makefile
+config.status: creating config.h
+config.status: config.h is unchanged
+config.status: executing depfiles commands
+make  all-recursive
+make[1]: Entering directory '/home/ubuntu/TP-02/sourdough'
+Making all in src
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/src'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/src'
+Making all in examples
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/examples'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/examples'
+Making all in datagrump
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/datagrump'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/datagrump'
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough'
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough'
+make[1]: Leaving directory '/home/ubuntu/TP-02/sourdough'
+net.ipv4.ip_forward = 1
+[3;J[H[2JExecuta o programama para o usuário O-Cride-Fala-Pra-Mãe
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.19 Mbits/s (23.7% utilization)
+95th percentile per-packet queueing delay: 34 ms
+95th percentile signal delay: 97 ms
+Power: 12.29
+Uploading data to server... done.
+
+Upload successful (1173061 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1541126344-queexahw
+
+EXECUCAO = 02 ---------------- \n
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /bin/mkdir -p
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking for g++... g++
+checking whether the C++ compiler works... yes
+checking for C++ compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking for style of include used by make... GNU
+checking dependency style of g++... gcc3
+checking for ranlib... ranlib
+checking for gcc... gcc
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /bin/grep
+checking for egrep... /bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking for uint16_t... yes
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating src/Makefile
+config.status: creating examples/Makefile
+config.status: creating datagrump/Makefile
+config.status: creating config.h
+config.status: config.h is unchanged
+config.status: executing depfiles commands
+make  all-recursive
+make[1]: Entering directory '/home/ubuntu/TP-02/sourdough'
+Making all in src
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/src'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/src'
+Making all in examples
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/examples'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/examples'
+Making all in datagrump
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/datagrump'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/datagrump'
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough'
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough'
+make[1]: Leaving directory '/home/ubuntu/TP-02/sourdough'
+net.ipv4.ip_forward = 1
+[3;J[H[2JExecuta o programama para o usuário O-Cride-Fala-Pra-Mãe
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.91 Mbits/s (18.1% utilization)
+95th percentile per-packet queueing delay: 30 ms
+95th percentile signal delay: 108 ms
+Power: 8.44
+Uploading data to server... done.
+
+Upload successful (1081673 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1541126514-mahjoinu
+
+EXECUCAO = 06 ---------------- \n
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /bin/mkdir -p
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking for g++... g++
+checking whether the C++ compiler works... yes
+checking for C++ compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking for style of include used by make... GNU
+checking dependency style of g++... gcc3
+checking for ranlib... ranlib
+checking for gcc... gcc
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /bin/grep
+checking for egrep... /bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking for uint16_t... yes
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating src/Makefile
+config.status: creating examples/Makefile
+config.status: creating datagrump/Makefile
+config.status: creating config.h
+config.status: config.h is unchanged
+config.status: executing depfiles commands
+make  all-recursive
+make[1]: Entering directory '/home/ubuntu/TP-02/sourdough'
+Making all in src
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/src'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/src'
+Making all in examples
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/examples'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/examples'
+Making all in datagrump
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/datagrump'
+g++ -DHAVE_CONFIG_H -I. -I..  -std=c++11 -pthread -I./../src  -pedantic -Wall -Wextra -Weffc++ -Werror -g -O2 -MT controller.o -MD -MP -MF .deps/controller.Tpo -c -o controller.o controller.cc
+mv -f .deps/controller.Tpo .deps/controller.Po
+g++ -pedantic -Wall -Wextra -Weffc++ -Werror -g -O2   -o sender contest_message.o controller.o sender.o ../src/libsourdough.a -lpthread 
+g++ -pedantic -Wall -Wextra -Weffc++ -Werror -g -O2   -o receiver contest_message.o controller.o receiver.o ../src/libsourdough.a -lpthread 
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/datagrump'
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough'
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough'
+make[1]: Leaving directory '/home/ubuntu/TP-02/sourdough'
+net.ipv4.ip_forward = 1
+[3;J[H[2JExecuta o programama para o usuário O-Cride-Fala-Pra-Mãe
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 5.01 Mbits/s (99.3% utilization)
+95th percentile per-packet queueing delay: 654 ms
+95th percentile signal delay: 1227 ms
+Power: 4.08
+Uploading data to server... done.
+
+Upload successful (2540037 bytes).
+For analysis, please visit:
+
+   http://cs344g.keithw.org/report?Cride_Fala_pra_MAE-1541126702-ohmiofee
+
+EXECUCAO = 06 ---------------- \n
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /bin/mkdir -p
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking for g++... g++
+checking whether the C++ compiler works... yes
+checking for C++ compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking for style of include used by make... GNU
+checking dependency style of g++... gcc3
+checking for ranlib... ranlib
+checking for gcc... gcc
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking dependency style of gcc... gcc3
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /bin/grep
+checking for egrep... /bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking for uint16_t... yes
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating src/Makefile
+config.status: creating examples/Makefile
+config.status: creating datagrump/Makefile
+config.status: creating config.h
+config.status: config.h is unchanged
+config.status: executing depfiles commands
+make  all-recursive
+make[1]: Entering directory '/home/ubuntu/TP-02/sourdough'
+Making all in src
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/src'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/src'
+Making all in examples
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/examples'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/examples'
+Making all in datagrump
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough/datagrump'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough/datagrump'
+make[2]: Entering directory '/home/ubuntu/TP-02/sourdough'
+make[2]: Leaving directory '/home/ubuntu/TP-02/sourdough'
+make[1]: Leaving directory '/home/ubuntu/TP-02/sourdough'
+net.ipv4.ip_forward = 1
+[3;J[H[2JExecuta o programama para o usuário O-Cride-Fala-Pra-Mãe
+Listening on :::9090
+Sending to 100.64.0.1:9090
+
+mm-throughput-graph exited with error. NOT uploading at ./run-contest line 52.
